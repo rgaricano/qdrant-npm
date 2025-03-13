@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anush008/qdrant-npm.git"
+    "url": "git+https://github.com/rgaricano/qdrant-npm.git"
   },
   "author": "Anush008 <anushshetty90@gmail.com>",
   "license": "MIT",
