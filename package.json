@@ -1,6 +1,6 @@
 {
   "name": "qdrantdb",
-  "version": "1.7.3",
+  "version": "1.13.4",
   "description": "Helper package to spin-up a Qdrant instance quickly",
   "scripts": {
     "postinstall": "node install.js"
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anush008/qdrant-npm.git"
+    "url": "git+https://github.com/rgaricano/qdrant-npm.git"
   },
   "author": "Anush008 <anushshetty90@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Anush008/qdrant-npm/issues"
   },
-  "homepage": "https://github.com/Anush008/qdrant-npm#readme",
+  "homepage": "https://github.com/rgaricano/qdrant-npm#readme",
   "dependencies": {
     "adm-zip": "^0.5.10",
     "tar": "^6.1.15"
